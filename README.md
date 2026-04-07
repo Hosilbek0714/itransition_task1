@@ -5,7 +5,7 @@ This project demonstrates a data pipeline that ingests non-standard JSON data in
 ## Project Structure
 * `task.py` - Python script for data cleaning (Regex-based), validation, and database ingestion.
 * `task1_d.json` - Raw input file (Ruby Hash format).
-* `Query.sql` - SQL script containing the transformation logic for the summary table.
+* `Task1.sql` - SQL script containing the transformation logic for the summary table.
 * `README.md` - Project documentation.
 
 ## Features & Requirements
